@@ -1,4 +1,3 @@
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -9,16 +8,12 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-
 /****************************************************************************
  Program Name: Customer.java
  Programmer's Name: Kyrenia Ailen Andrade Avila
  Program Description: DataIO class used in LandscapeGUI.java.
  ****************************************************************************/
+
 public class DataIO {
     // behaviors
     public void add(Customer cust) throws IOException
