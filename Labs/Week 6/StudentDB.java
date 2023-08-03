@@ -19,7 +19,6 @@ public class StudentDB {
         // to help prevent hacking. Injection attacks are very common against databases.
         // --> Check this website when in doubt: http://sqlzoo.net/hack
         
-        
         // check for the driver
         Class.forName("com.mysql.cj.jdbc.Driver");
         
