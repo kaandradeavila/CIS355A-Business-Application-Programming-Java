@@ -4,7 +4,6 @@ import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
-
 /****************************************************************************
  Program Name: LandscapeGUI.java
  Programmer's Name: Kyrenia Ailen Andrade Avila
