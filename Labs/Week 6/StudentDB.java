@@ -17,7 +17,7 @@ public class StudentDB {
     public void add (Student stu) throws ClassNotFoundException, SQLException {
         // ALWAYS use PreparedStatement to write to databases when we get input from users
         // to help prevent hacking. Injection attacks are very common against databases.
-        // http://sqlzoo.net/hack
+        // --> Check this website when in doubt: http://sqlzoo.net/hack
         
         
         // check for the driver
