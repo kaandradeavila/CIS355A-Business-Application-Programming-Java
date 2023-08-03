@@ -1,12 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-
-/* Program Name: Student.java
- * Programmer's Name: Kyrenia Ailen Andrade Avila
- * Program Description: Student class used in GradeManagementGUI.java
- */
+/***********************************************************************
+ Program Name: Student.java
+ Programmer's Name: Kyrenia Ailen Andrade Avila
+ Program Description: Student class used in GradeManagementGUI.java
+ ***********************************************************************/
 public class Student {
     // attributes
     private int id;
