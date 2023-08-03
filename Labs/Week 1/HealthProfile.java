@@ -1,5 +1,3 @@
-package cis355a.week1.lab;
-
 /****************************************************************************
  Program Name: HealthProfile.java
  Programmer's Name: Kyrenia Ailen Andrade Avila
