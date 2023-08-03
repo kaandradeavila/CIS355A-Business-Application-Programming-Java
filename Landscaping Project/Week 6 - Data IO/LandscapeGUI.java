@@ -4,22 +4,16 @@ import javax.swing.DefaultListModel;
 import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
 
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
+/****************************************************************************
+ Program Name: LandscapeGUI.java
+ Programmer's Name: Kyrenia Ailen Andrade Avila
+ Program Description: LandscapeGUI where we ask customer to choose if
+ they want grass or gravel for their yard, and customer information for an
+ order, gives customer an estimate, and then customer can submit order, each
+ in different tabs; then, the customers information is written, read and 
+ saved into a database.
+ ****************************************************************************/
 
-/*
- ***************************************************************************
- * Program Name: LandscapeGUI.java
- * Programmer's Name: Kyrenia Ailen Andrade Avila
- * Program Description: LandscapeGUI where we ask customer to choose if
- * they want grass or gravel for their yard, and customer information for an
- * order, gives customer an estimate, and then customer can submit order, each
- * in different tabs; then, the customers information is written, read and 
- * saved into a database.
- ***************************************************************************
- */
 public class LandscapeGUI extends javax.swing.JFrame {
 
     //class level references and attributes
