@@ -1,15 +1,11 @@
 import java.sql.*;
 import java.util.ArrayList;
 
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-
-/* Program Name: StudentDB.java
- * Programmer's Name: Kyrenia Ailen Andrade Avila
- * Program Description: StudentDB border class used in GradeManagementGUI.java
- */
+/**********************************************************************************
+ Program Name: StudentDB.java
+ Programmer's Name: Kyrenia Ailen Andrade Avila
+ Program Description: StudentDB border class used in GradeManagementGUI.java
+ **********************************************************************************/
 public class StudentDB {
     // constants
     private final String CONNECTION_STRING = "jdbc:mysql://localhost:3306/cis355a"; //in the industry, you substitute localhost for the url or IP address where the db is
