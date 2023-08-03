@@ -1,4 +1,3 @@
-
 import java.sql.SQLException;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
@@ -7,16 +6,12 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
-
-/* Program Name: GradeManagementGUI.java
- * Programmer's Name: Kyrenia Ailen Andrade Avila
- * Program Description: GUI program that calculates students' grades and saves
- * their information to a database.
- */
+/************************************************************************************ 
+ Program Name: GradeManagementGUI.java
+ Programmer's Name: Kyrenia Ailen Andrade Avila
+ Program Description: GUI program that calculates students' grades and saves
+ their information to a database.
+ *************************************************************************************/
 
 public class GradeManagementGUI extends javax.swing.JFrame {
 
